@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
