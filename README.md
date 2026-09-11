@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
+| [0525-contiguous-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0643-maximum-average-subarray-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -93,6 +95,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Queue
