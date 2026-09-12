@@ -119,4 +119,16 @@
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## String
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0301-remove-invalid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
